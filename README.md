@@ -1,4 +1,4 @@
-### Helo there, eu sou Marcos Vinícius.
+### Hello there, eu sou Marcos Vinícius.
 
 - 🌱 Estudante de Sistemas de informação e me especializando para Dev Full-stak.
 
