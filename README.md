@@ -16,9 +16,9 @@
 
 </div>
 
-- 👨‍💻 Some of the technologies I study and use.
-
 <div style="display: inline_block"><br>
+  - 👨‍💻 Some of the technologies I study and use.
+  <br>
   <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
