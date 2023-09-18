@@ -1,38 +1,27 @@
-### Hello there, eu sou Marcos Vinícius.
+### 👨🏻‍💻
 
-- 🌱 Information Systems student and specializing in Full-stack Dev.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=585FF7&center=true&vCenter=true&width=1000&lines=Hello+there!;+My+name+is+Marcos%2C+I'm+24+years+old.;+I'm+studying+Information+Systems.;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Marcosvco13&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Marcosvco13&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Marcosvco13&show_icons=true" />
-</picture>
-
+<div style="text-align: center;">
+  <img width="470px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcosvco13&layout=compact&bg_color=000&border_color=585FF7&title_color=585FF7&text_color=FFF&show_icons=true" style="display: inline-block;">
+  <img width="470px" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcosvco13&layout=compact&bg_color=000&border_color=585FF7&title_color=585FF7&text_color=FFF" style="display: inline-block;">
 </div>
 
-<div>
-  - 👨‍💻 Some of the technologies I study and use.
-</div>
+  ## Skills  
+### Programming languages
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+### Markup and styling languages
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+### Other technologies and Frameworks
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcos-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-</div>
-  
-  ##
- 
-<div> 
- <a href="https://discord.gg/NTzM4PBb9d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcosviniciusmvmv7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-de-castro-oliveira-5881a11a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+## Conect with me
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=585FF7)](mailto:marcosviniciusmvmv7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=585FF7)](https://www.linkedin.com/in/marcos-vin%C3%ADcius-de-castro-oliveira-5881a11a2)
