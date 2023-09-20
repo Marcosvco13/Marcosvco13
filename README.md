@@ -20,7 +20,10 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
+<br/>
+![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.net&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Conect with me
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=585FF7)](mailto:marcosviniciusmvmv7@gmail.com)
