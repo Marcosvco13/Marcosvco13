@@ -26,5 +26,5 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Conect with me
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=585FF7)](mailto:marcosviniciusmvmv7@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=585FF7)](mailto:marcos.vco.2804@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=585FF7)](https://www.linkedin.com/in/marcos-vin%C3%ADcius-de-castro-oliveira-5881a11a2)
