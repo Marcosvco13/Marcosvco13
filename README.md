@@ -1,6 +1,6 @@
 ### 👨🏻‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=585FF7&center=true&vCenter=true&width=1000&lines=Hello+there!;+My+name+is+Marcos%2C+I'm+26+years+old.;+I+have+a+bachelor's+degree+in+Information+Systems+and+I+am+a+mobile+developer.;Welcome+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=585FF7&center=true&vCenter=true&width=1000&lines=Hello+there!;+My+name+is+Marcos%2C+I'm+26+years+old.;+I+have+a+bachelor's+degree+in+Information+Systems.;I+am+a+mobile+developer.;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 <div style="text-align: center;">
   <img width="410px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcosvco13&layout=compact&bg_color=000&border_color=585FF7&title_color=585FF7&text_color=FFF&show_icons=true" style="display: inline-block;">
